@@ -1,0 +1,13 @@
+body{
+    text-align: center;
+    font-family: 'Dancing Script', cursive;
+    font-size: larger;
+}
+html{
+    background: linear-gradient(rgb(173, 201, 51),rgb(233, 144, 42));
+}
+.menu{
+    list-style: none;
+    cursor: pointer;
+    color: aqua;
+}
